@@ -10,10 +10,10 @@ Import the file "db_sample.sql" into that database.
 This will create all the tables and insert sample data.
 
 Copy the entire folder named "shop" into your htdocs directory.
-For example: C:\xampp\htdocs\information management
+For example: C:\information management\htdocs\
 
 Make sure the project path looks like this:
-C:\xampp\htdocs\information management\shop
+C:\information management\htdocs\shop
 
 Start Apache and MySQL from the XAMPP Control Panel.
 
