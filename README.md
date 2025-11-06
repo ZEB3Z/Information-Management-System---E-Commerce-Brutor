@@ -9,7 +9,7 @@ Create a new database and name it "db_sample".
 Import the file "db_sample.sql" into that database.
 This will create all the tables and insert sample data.
 
-Copy the entire folder named "information management" into your htdocs directory.
+Copy the entire folder named "shop" into your htdocs directory.
 For example: C:\xampp\htdocs\information management
 
 Make sure the project path looks like this:
