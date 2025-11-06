@@ -18,8 +18,7 @@ C:\xampp\htdocs\information management\shop
 Start Apache and MySQL from the XAMPP Control Panel.
 
 Open your web browser and go to:
-http://localhost/information
- management/shop/
+http://localhost/shop/user/login.php
 
 Log in using the sample admin account:
 Email: admin@shop.com
